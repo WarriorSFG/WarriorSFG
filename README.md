@@ -10,8 +10,8 @@
 
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-WarriorSFG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WarriorSFG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthgupta)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgupta@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthgupta9999)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgupta9999@gmail.com)
 
 </div>
 
